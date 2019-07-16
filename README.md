@@ -6,7 +6,7 @@ Tasarım - https://dribbble.com/shots/5756452-Hengteng-Mimi-APP
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/ahmeteminkara/FlutterUI-RentalApp/master/media/rentalapp.gif" alt="" data-canonical-src="https://raw.githubusercontent.com/ahmeteminkara/FlutterUI-RentalApp/master/media/rentalapp.gif" width="200" />
+<img src="https://raw.githubusercontent.com/ahmeteminkara/FlutterUI-RentalApp/master/media/rentalapp.gif" width="200" />
 
 
 ![](https://raw.githubusercontent.com/ahmeteminkara/FlutterUI-RentalApp/master/media/rentalapp.gif | width=200)
